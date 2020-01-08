@@ -1,0 +1,23 @@
+{
+  "name": "animated-svg-favicon",
+  "version": "1.0.0",
+  "description": "Test to animate an SVG favicon",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanjudis/animated-svg-favicon.git"
+  },
+  "keywords": [],
+  "author": "stefan judis <stefanjudis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanjudis/animated-svg-favicon/issues"
+  },
+  "homepage": "https://github.com/stefanjudis/animated-svg-favicon#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
